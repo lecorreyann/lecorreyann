@@ -4,7 +4,7 @@ Qui je suis:
 - Je suis développeur PHP et JavaScript diplômé
 - Data Scientist certifié
 - Freelance depuis 12 ans 
-- Développeur éthique engagé, je reverse 10% de mes prestations à des organismes socio-environnementaux 
+- Développeur éthique engagé, je reverse 10% de mes prestations à des organismes socio-environnementaux 🌎
 
 Mes technologies: 
 - Vanilla JavaScript/jQuery
