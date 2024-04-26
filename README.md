@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Qui je suis: 
-- Je suis développeur PHP et JavaScript diplômé 
+- Je suis développeur PHP et JavaScript diplômé
+- Data Scientist certifié
 - Freelance depuis 12 ans 
 - Développeur éthique engagé, je reverse 10% de mes prestations à des organismes socio-environnementaux 
 
@@ -12,6 +13,15 @@ Mes technologies:
 - Express.js
 - PHP Legacy 
 - Laravel/Livewire
+- Python
+
+En ce moment je me forme à: 
+- Go
+
+Plus tard j'aimerais me former à: 
+- Java
+- Swift
+- Kotlin
 
 Prendre un rendez-vous viso: https://meetings-eu1.hubspot.com/yle-corre
 Téléphone: +33970440688
