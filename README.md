@@ -1,4 +1,4 @@
-Vous recherchez un développeur React.js / Typescript / Node.js / Express.js sénior pour intégrer votre équipe ? 
+Vous recherchez un développeur React.js / Typescript / Node.js / Express.js pour intégrer votre équipe ? 
 Vous avez besoin de développer votre propre SaaS, API ou d'intégrer des APIs externes ?
 
 
