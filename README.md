@@ -14,4 +14,3 @@ Je suis en mesure de vous aider à :
 
 On échange sur votre projet ?
 - Contactez-moi par e-mail : developpement@yannlc.com ou par téléphone au 06 86 33 54 08
-- Réservez un créneau : [https://meetings-eu1.hubspot.com/yle-corre](https://calendly.com/developpement-yannlc-com)
